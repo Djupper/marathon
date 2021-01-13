@@ -1,12 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,600;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,800&display=swap');
 
 body{
     font-family: 'Montserrat', sans-serif; 
 }
 
-.header {
+.header1 {
     font-size: 48px;
+}
+.header2{
+    font-size: 18px;
 }
 .profesion{
     color:#FF3232;
+}
+p {
+    font-size: 14;
 }
