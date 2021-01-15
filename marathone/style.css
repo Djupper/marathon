@@ -6,6 +6,17 @@ body{
 
 .header1 {
     font-size: 48px;
+    line-height: 59px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+.img1_info{
+    text-align: center;
+color: #FFFFFF;
+line-height: 17px;
 }
 .header2{
     font-size: 18px;
@@ -16,3 +27,43 @@ body{
 p {
     font-size: 14;
 }
+.block{
+    
+display: flex;
+
+}
+.text_field{
+    margin-left: 50px;
+    justify-content: center;
+}
+.img_block{
+width: 310px;
+height: 656px;
+background: #1A142D;
+padding-top: 17px;
+padding-left: 17px;
+padding-right: 17px;
+box-sizing: border-box;
+
+}
+
+.img1{
+width: 273px;
+height: 392px;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+}
+.gallary{
+    margin-top: 50px;
+    justify-content: center;     
+    
+}
+.gallary_img{
+    width: 206px ;
+    height: 206px;
+    margin-right: 25px;;
+    
+}
+.block_smm{
+      margin-left: 33%;    
+} 
